@@ -1,8 +1,8 @@
-### Hello, github 👋
+### Ciao! 👋
 
-- 🐍 Python 2/3 war veteran
-- 🕹 Currently playing with go, rust, IoT and multimedia stuff
-- 💬 Reach out to me if you wanna talk about open source projects
+- 🐍 Pythonista since forever, I'm currently working on machine learning projects
+- 🕹 I like to play also with Go, Rust, IoT and multimedia stuff
+- 💬 Reach out to me if you want to talk about FOSS
 
 <!--
 **alesanfra/alesanfra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
